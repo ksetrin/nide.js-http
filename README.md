@@ -1,6 +1,6 @@
 минимальная версия node.js 8.11.2
 
-git clone 
+git clone https://github.com/ksetrin/nide.js-http.git
 
 команда для запуска node index.js
 
